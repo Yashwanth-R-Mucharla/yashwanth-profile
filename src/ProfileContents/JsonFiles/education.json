@@ -1,0 +1,20 @@
+[
+    {
+        "Qualification":"B.Tech",
+        "Institution":"CMR College of Engineering & Technology",
+        "cgpa":"9.1",
+        "Years":"2017-2021"
+    },
+    {
+        "Qualification":"Intermediate",
+        "Institution":"Excellencia Junior College",
+        "cgpa":"95%",
+        "Years":"2015-2017"
+    },
+    {
+        "Qualification":"S.S.C",
+        "Institution":"Sri Chaitanya Techno School",
+        "cgpa":"9.0",
+        "Years":"2015"
+    }
+]

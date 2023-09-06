@@ -1,0 +1,12 @@
+.profile-header{
+    font-family: 'Segoe UI';
+    height: 100px;
+    border: solid;
+    font-size: 40px;
+    padding: 15px;
+    padding-right: 65%;
+    color: gray;
+}
+.profile-tabs{
+    font-family: 'Segoe UI';
+}

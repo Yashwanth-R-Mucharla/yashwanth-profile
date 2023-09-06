@@ -1,0 +1,170 @@
+.Home{
+    font-family: 'Segoe UI';
+}
+.page-header{
+    display: flex;
+}
+.profile-header{
+    font-family: 'Segoe UI';
+    font-size: 65px;
+    color: black;
+    width: 75%;
+}
+.envelope{
+    font-size: 20px;
+}
+.contacts{
+    padding-top: 25px;
+    width: 25%;
+}
+.tabs-container{
+    display: flex;
+    justify-content: flex-start;
+}
+.top-bar{
+    padding-top: 20px;
+}
+.tab-space{
+    height: 40px;
+    padding-top: 3px;
+    background-color: gray;
+}
+.tab{
+    height: 40px;
+    width: 100%;
+    padding-top: 3px;
+    background-color: rgb(224, 221, 221);
+    font-family: 'Segoe UI';
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    cursor: pointer;
+}
+.active-tab{
+    border-top: solid blue;
+    background-color: white;
+    color: black;
+    cursor: pointer;
+}
+.Content{
+    font-family: 'Segoe UI';
+    display: none;
+}
+.active-Content{
+    display:contents;
+}
+.career-obj{
+    display: flex;
+}
+.skills{
+    display: flex;
+}
+.education{
+    display: flex;
+}
+.achievements{
+    display: flex;
+}
+.career-objective{
+    width: 65%;
+    margin-left: 20px;
+}
+.career-objective-skills{
+    width: 70%;
+    margin-left: 20px;
+}
+.image-skills{
+    width: 30%;
+    height: 400px;
+}
+.image{
+    width: 35%;
+    height: 400px;
+}
+.yashImage{
+    margin-top: 20px;
+    margin-left: 150px;
+    border-radius: 50%;
+    border: solid 5px rgb(99, 175, 220);
+}
+.skillsimg{
+    margin-top: 20px;
+    margin-left: 100px;
+}
+.eduImg{
+    margin-top: 20px;
+    margin-left: 150px;
+}
+.achievementsImg{
+    margin-top: 20px;
+    margin-left: 150px;
+}
+.content-heading{
+    font-family: 'Segoe UI';
+    font-size: 40px;
+    color: rgb(99, 175, 220);
+}
+.content-heading-education{
+    font-family: 'Segoe UI';
+    font-size: 40px;
+    color: rgb(99, 175, 220);
+    margin-left: 20px;
+}
+.content-body{
+    font-size: 20px;
+}
+.skills-only{
+    font-size: 30px;
+}
+.experience-only{
+    font-size: 30px;
+}
+.skills-experience-flex-block{
+    display: flex;
+}
+.skills-block{
+    width: 45%;
+    
+}
+.experience-block{
+    width: 55%;
+    
+}
+.ul{
+    list-style-type: square;
+    font-size: 20px;
+    font-weight: bold;
+}
+.sub-ul{
+    font-size: 20px;
+    font-weight: normal;
+}
+.career-objective-education{
+    width: 70%;
+}
+.image-education{
+    width: 30%;
+}
+.education-block{
+    width: 100%;
+    margin-left: 25px;
+}
+.achievements-block{
+    width: 100%;
+    margin-left: 25px;
+    height: 500px;
+}
+.acheivements-block-heading{
+    font-size: 25px;
+    font-weight: 600;
+}
+.personal-block{
+    width: 100%;
+    height: 500px;
+    font-size: 25px;
+    align-items: center;
+}
+.personal-profile-table{
+    
+    margin-left: 150px;
+}
