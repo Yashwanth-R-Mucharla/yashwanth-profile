@@ -214,7 +214,7 @@ const Profile=()=>{
                                     <tr>
                                         <td>Age</td>
                                         <td>&emsp;&emsp;:</td>
-                                        <td>&emsp;&emsp;23</td>
+                                        <td>&emsp;&emsp;24</td>
                                     </tr>
                                     <tr>
                                         <td>Contact</td>
